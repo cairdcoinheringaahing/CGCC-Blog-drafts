@@ -15,7 +15,7 @@ This is, in my opinion, the biggest argument for golfing languages. The obvious 
 [J]: https://www.jsoftware.com/#/
 [APL]: https://aplwiki.com/wiki/
 [Java]: https://www.java.com/en/
-[Code Golf.SE]: 
+[Code Golf.SE]: https://codegolf.stackexchange.com/
 [Jelly]: https://github.com/DennisMitchell/jelly
 [this]: https://codegolf.stackexchange.com/a/182825/66833
 [Padovan sequence]: https://en.wikipedia.org/wiki/Padovan_sequence
