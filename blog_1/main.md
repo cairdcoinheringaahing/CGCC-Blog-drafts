@@ -47,3 +47,9 @@ Golfing languages are also designed for one thing: golfing. In JS or Python, you
 Entire classes of challenges can be completely trivialized by golfing languages. Prime-related challenges, for example. While it costs you 30-40 bytes for a primality check in most practical languages, a golfing language can do that in a single byte. You could argue that these challenges are already trivial if they could be solved in a few bytes in a golfing language, but it could also be that golfing languages make a larger number of challenges count as trivial.
 
 Overall, golfing languages can be discouraging to new users, and trivialize many problems.
+
+## Conclusion
+
+Golfing languages have both good and bad impacts on the site as a whole. They can be discouraging to new users, who don't yet know the rules regarding competition between languages. Despite trivializing many challenges, it could be argued that these sorts of challenges are already quite trivial. Although they are often significantly shorter, golfing languages can still be difficult and interesting to golf in.
+
+Whether you believe that golfing languages encourage creative thinking, or that they make it more difficult for newer users to get started, the fact that this site allows any language undeniably sets it apart from other golfing communities.
