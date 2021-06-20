@@ -11,4 +11,4 @@
 
 {Additions / Features}
 
-<sub>Written by [username](link), ..., and [username](link) with additions by [username](link), ..., and [username](link). If you would like a list of all of the blog posts so far, check out the [meta-tag:blog] tag. If you would like to be a part of this blog, or if you have any questios, feel free to drop by our [drafting and discussion room](https://chat.stackexchange.com/rooms/123200/cgcc-blog-chat).</sub>
+<sub>Written by [username](link), ..., and [username](link) with additions by [username](link), ..., and [username](link). If you would like a list of all of the blog posts so far, check out the [meta-tag:blog] tag. If you would like to be a part of this blog, or if you have any questions, feel free to drop by our [drafting and discussion room](https://chat.stackexchange.com/rooms/123200/cgcc-blog-chat).</sub>
