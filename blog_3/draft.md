@@ -2,7 +2,7 @@
 
 On September 15th 2008, to celebrate the official public launch of Stack Overflow, [Chris Jester-Young][1] posted the [very first code golf question on SO][2]. For a few years, [tag:code-golf] problems popped up from time to time on SO. However, people [started][3] [expressing][4] [dislike][5] for these questions, claiming they weren't really a part of the Q&A system that SO was based on. And so, a proposal for a [new site][6] was created on the 8th of June 2010, and entered private beta 6 months later.
 
-Just over 10 years ago, Code Golf Stack Exchange came into existance. Since then, we've developed rules, gone through multiple cultural shifts and have changed drastically as a site. I'm a relatively new user, compared to some. I joined in March 2017, right as we were experiencing our all time peak in activity. I wasn't around for a lot of CGCC's history, but I've managed to isolate it down ito 5 "eras" based on the history I'm aware of.
+Just over 10 years ago, Code Golf Stack Exchange came into existance. Since then, we've developed rules, gone through multiple cultural shifts and have changed drastically as a site. I'm a relatively new user, compared to some. I joined in March 2017, right as we were experiencing our all time peak in activity. I wasn't around for a lot of CGCC's history, but I've managed to isolate it down ito 5 "eras" and I hope I can tell them accurately.
 
 ## The beginning
 
