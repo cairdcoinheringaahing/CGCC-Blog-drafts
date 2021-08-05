@@ -1,6 +1,6 @@
 # CGCC Blog Post #3: The history of PPCG and CGCC
 
-On September 15th 2008, to celebrate the official public launch of Stack Overflow, [Chris Jester-Young][CJY SO] posted the [very first code golf question on SO][First code golf on SO]. For a few years, [tag:code-golf] problems popped up from time to time on SO. However, people [started][Dislike code golf on SO 1] [expressing][Dislike code golf on SO 2] [dislike][Dislike code golf on SO 3] for these questions, claiming they weren't really a part of the Q&A system that SO was based on. And so, a proposal for a [new site][Code golf Area 51 proposal] was created on the 8th of June 2010, and entered private beta 6 months later.
+On September 15th 2008, to celebrate the official public launch of Stack Overflow, [Chris Jester-Young][CJY SO] posted the [very first code golf question on SO][First code golf on SO]. For a few years, [\[code-golf\]][SO code golf tag] problems popped up from time to time on SO. However, people [started][Dislike code golf on SO 1] [expressing][Dislike code golf on SO 2] [dislike][Dislike code golf on SO 3] for these questions, claiming they weren't really a part of the Q&A system that SO was based on. And so, a proposal for a [new site][Code golf Area 51 proposal] was created on the 8th of June 2010, and entered private beta 6 months later.
 
 Just over 10 years ago, Code Golf Stack Exchange came into existance. Since then, we've developed rules, gone through multiple cultural shifts and have changed drastically as a site. I'm a relatively new user, compared to some. I joined in March 2017, right as we were experiencing our all time peak in activity. I wasn't around for a lot of CGCC's history, but I've managed to isolate it down to 5 or 6 "eras" and I hope I can tell them accurately.
 
@@ -41,3 +41,4 @@ Unfortuantely, code trolling questions are not high quality. Most of them were s
 [Golfscript]: http://www.golfscript.com/golfscript/
 [APL]: https://en.wikipedia.org/wiki/APL_(programming_language)
 [Dennis]: https://codegolf.stackexchange.com/u/12012
+[SO code golf tag]: https://stackoverflow.com/questions/tagged/code-golf
