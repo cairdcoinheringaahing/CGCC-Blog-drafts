@@ -8,7 +8,7 @@ Just over 10 years ago, Code Golf Stack Exchange came into existance. Since then
 
 On January 27th, 2011, CGCC entered its private beta, lasting for a week. 258 users joined during that beta, including [Peter Taylor][7], [gnibbler][8] and [Chris Jester-Young][9], who were just a few of the earliest and most influential users at site creation. [This][10] is a  list of those users who posted, many of whom set the groundwork for the site. A couple of weeks later, Chris Jester-Young, [dmckee][11] and gnibbler were [appointed as moderators][12] and Code Golf officially joined the ranks of SE sites.
 
-For the first couple of years, the site sort of just continued along. We averaged around 3 questions per day and had a consistent yet low intake of new and active users. However J, Goflscript and APL dominated on the site, which upset [a lot of people][13], a discussion we've had [many times][14]. Despite this common complaint, the site was quiet but had no big issues. Until a troll arrived.
+For the first couple of years, the site sort of just continued along. We averaged around 3 questions per day and had a consistent yet low intake of new and active users. However J, Goflscript and APL dominated on the site, which upset [a lot of people][13] - a discussion we've had [many times][14]. Despite this common complaint, the site was quiet but nothing was especially problematic. Until a troll arrived.
 
 ## [tag:code-trolling] and the activity boom
 
