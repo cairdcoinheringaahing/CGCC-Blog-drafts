@@ -14,7 +14,7 @@ For the first couple of years, the site sort of just continued along. We average
 
 [tag:code-trolling] challenges began on December 27, 2013 when the [first one][First code trolling question] was posted as an experimental new challenge type. It was immediately a smash, hitting 100 upvotes and 10k views in less than 14 hours, and receiving more than 80 answers. The next day, 8 more [tag:code-trolling] challenges were posted, and the site experienced a massive boom in activity. A few days later, the [second highest voted challenge] was posted, and even more users joined the site. Most notably, future moderator and all around [awesome person][Dennis is awesome] [Dennis], who would later go on to shape much of the community.
 
-Unfortuantely, code trolling questions are not high quality. Most of them were so broad as to basically be "write some code that has something to do with <insert task here>", and they were [leaking into the network][Trolls in our halls]. Many people disliked them, they were decreasing the quality of questions on the site, and so, after a few months, an [official stance was taken][Official stance on code trolling]: [tag:code-trolling] is no longer welcome. A massive clean up was organised, and 47 of the 60 existing [tag:code-trolling] questions were removed. If you have 10000 or more reputation and would like to see those, [here's a query with links][21].
+Unfortuantely, code trolling questions are not high quality. Most of them were so broad as to basically be "write some code that has something to do with <insert task here>", and they were [leaking into the network][Trolls in our halls]. Many people disliked them, they were decreasing the quality of questions on the site, and so, after a few months, an [official stance was taken][Official stance on code trolling]: [tag:code-trolling] is no longer welcome. A massive clean up was organised, and 47 of the 60 existing [tag:code-trolling] questions were removed. If you have 10000 or more reputation and would like to see those, [here's a query with links][SEDE query].
 
 ---
 
@@ -42,3 +42,4 @@ Unfortuantely, code trolling questions are not high quality. Most of them were s
 [APL]: https://en.wikipedia.org/wiki/APL_(programming_language)
 [Dennis]: https://codegolf.stackexchange.com/u/12012
 [SO code golf tag]: https://stackoverflow.com/questions/tagged/code-golf
+[SEDE query]: https://data.stackexchange.com/stackoverflow/query/1441822
