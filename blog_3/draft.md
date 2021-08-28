@@ -1,6 +1,6 @@
-# CGCC Blog Post #3: The history of PPCG and CGCC
+# CGCC Blog Post #2: The history of PPCG and CGCC
 
-We [recently turned 10 years old][10 years]. Unfortuantely, we didn't really [realise]. But, it got me thinking about the history of the site, and now that the site blog is a thing, I thought'd I'd write up a brief (or rather, not so brief) history of the past 10+ years of Code Golf, PPCG and CGCC. Enjoy!
+We [recently turned 10 years old][10 years]. Unfortunately, we didn't really [realise]. But, it got me thinking about the history of the site, and now that the site blog is a thing, I thought I'd write up a brief (or rather, not so brief) history of the past 10+ years of Code Golf, PPCG and CGCC. Enjoy!
 
 ---
 
@@ -38,17 +38,17 @@ As a strong and healthy site, PPCG and its community thrived. However, after 184
 
 After so long in beta, graduation had become a [meme][graduation meme]\${}^\dagger\$, a prank made every so often by Geobits and co. to convince people that PPCG was graduating. However, on February 23rd 2016, SE [ruined the meme][ruined]\${}^\dagger\$ by going ahead and [graduating us]. With this massive step, we gained many new privileges, such as our own formal moderator elections, some control over the advertisements shown on the site, and, eventually, we got our own design.
 
-The first of these changes was PPCG's [first official moderator election][election 1]. When a site graduates, the pro-tem mods must run in the election if they wish to keep serving as moderator. Doorknob, Alex, Dennis and Martin did, against a strong field of candidates. Despite this, Martin was reelected in a [landslide] victory, with Dennis and Doorknob being clear favourites after him. While not as strong as the others, Alex successfully defended his seat by a handy margin. After 5 years, gnibbler declined to run, as did Chris Jester-Young. And so, despite the site going through a pretty big change, the moderation team stayed roughly the same faces as most users were used to.
+The first of these changes was PPCG's [first official moderator election][election 1]. When a site graduates, the pro-tem mods must run in the election if they wish to keep serving as moderator. Doorknob, Alex, Dennis and Martin did, against a strong field of candidates. Despite this, Martin was re-elected in a [landslide] victory, with Dennis and Doorknob being clear favourites after him. While not as strong as the others, Alex successfully defended his seat by a handy margin. After 5 years, gnibbler declined to run, as did Chris Jester-Young. And so, despite the site going through a pretty big change, the moderation team stayed roughly the same faces as most users were used to.
 
 Next to follow would be the [Community Ads][ads 2016], despite some [delays] in getting these set up. These ads were the first appearance of some of the iconic ads still used today, such as for [TIO][tio ad], [the Sandbox][sandbox ad] and [Know How To Vote][khtv ad]. The ads themselves weren't an especially big thing, but the intent and meaning behind them was clear: PPCG was no longer a beta site, and was now fully grown up.
 
 Continuing the [trend] from previous years, 2016 and 2017 had a *massive* increase in challenges posted each year, both of them reaching over 3000 each. Aside from the boom after [tag:code-trolling], this was the biggest activity increase in the site's history, and was one of the longest sustained one. During this period, some of the most well-known questions and answers were posted as well, posts that established just how awesome the site could be at its best. To choose far too few to demonstrate, [Quest For Tetris], [Mathematica's goat builtin][goat builtin] and the still ongoing [Add a language to a polyglot][aaltap] were all posted during these two years. I'd suggest, if you have the time, [browsing the top voted posts][top voted] from this era.
 
-As a grown up SE site, the top of the todo list was a design. [Ideas] were thrown around, to create something that would make PPCG feel unique, rather than the generic blue beta design. Unfortunately, as PPCG graduated through [design-independent graduation] we still had a bit to wait.
+As a grown up SE site, the top of the to-do list was a design. [Ideas] were thrown around, to create something that would make PPCG feel unique, rather than the generic blue beta design. Unfortunately, as PPCG graduated through [design-independent graduation] we still had a bit to wait.
 
 ## A slow decline and occasional improvements
 
-2016 and 2017 experienced perhaps the most activity in the site's history. However, 2018 seemed to go the opposite direction. We had the [fewest posts] since 2013, and almost 12000 users simply [stopped visting] the site in 2017. And yet, there's no obvious reason. There was no cataclysmic event that caused a mass exodus, a new competitor site didn't spring up and steal our userbase. The truth is much more mundane, and something we should always remember in communities: [People change. Lives change]. People just moved on from the site, for a multitude of reasons, and new faces filled their ranks.
+2016 and 2017 experienced perhaps the most activity in the site's history. However, 2018 seemed to go the opposite direction. We had the [fewest posts] since 2013, and almost 12000 users simply [stopped visiting] the site in 2017. And yet, there's no obvious reason. There was no cataclysmic event that caused a mass exodus, a new competitor site didn't spring up and steal our userbase. The truth is much more mundane, and something we should always remember in communities: [People change. Lives change]. People just moved on from the site, for a multitude of reasons, and new faces filled their ranks.
 
 The first prominent "loss" was [Alex A.], who [handed in his diamond] in February 2018. One of the friendliest users you'll ever interact with, and an incredibly level-headed and competent moderator, he had served for 2 and a half years, with his diamond being removed on [Feb 26th, 2018], almost exactly 2 years after we graduated. However, [stepping into his shoes] were two users who very much deserved to be moderators, [DJMcMayhem] and [Mego].
 
@@ -64,7 +64,7 @@ While this was undoubtedly good news, it wasn't be an entirely positive time. Af
 
 ## The Monica Incident and a death spiral
 
-For anyone who was active on the Stack Exchange network in late 2019, the name "Monica" brings up bad memories and for a good reason. On the evening of September 27th 2019, [Monica Cellio], a moderator on 6 Stack Exchange sites - including [Meta Stack Exchange] where the moderators are hand-picked by the SE staff - had all of her diamonds removed by Stack Exchange, in response to a discussion in the Teacher's Lounge (the moderator only chat room). Her side of the story can be read [here][monica-my], and an MSE discussion can be found [here][monica-mse], including a list of all moderators who resigned their positions due to this firing.
+For anyone who was active on the Stack Exchange network in late 2019, the name "Monica" brings up bad memories and for a good reason. On the evening of September 27th 2019, [Monica Cellio], a well respected moderator on 6 Stack Exchange sites - including [Meta Stack Exchange] where the moderators are hand-picked by the SE staff - had all of her diamonds removed by Stack Exchange, in response to a [discussion][monica tl]\${}^3\$ in the [Teacher's Lounge]\${}^3\$ (the moderator only chat room). Her side of the story can be read [here][monica-my], and an MSE discussion can be found [here][monica-mse], including a list of all moderators who resigned their positions due to this firing.
 
 Two such moderators were our own: [Dennis][dennis resignation] and [Mego][mego resignation]. Additionally, in protest to the new [relicensing], Mego requested that all their content on the network be dissociated with him, and his accounts removed. This incident was a dark period of time for the entire network, many users [considered leaving] the site all together, and many more users decided they'd rather not contribute to SE, given the behaviour they were showing. Some of the best users on the site, such as Peter Taylor, [Erik the Outgolfer], Dennis, and many more went inactive in the following months, many of them explicitly blaming what SE did to Monica or the forced relicensing as the trigger. Activity dropped to an all time low (since [tag:code-trolling]), TNB started going for hours and even days without conversation, and more and more users began to leave. CGCC was in a death spiral.
 
@@ -76,13 +76,13 @@ Unfortunately, a couple of months later in January 2020, after 2 years as a mode
 
 ## Present day and a slow recovery
 
-At this time, CGCC was stuck in a bit of a weird place. We'd just experienced a mass exodus of users, and for the months between Monica's firing and the January interest check, activity plummeted. However, between January and September, we experienced an [influx of new faces], and a surprising [uptick in activity]. It seemed as though CGCC was, at least actvity-wise, starting to recover. However, in the main factor SE considers - active moderators - we still only had 1 moderator, and , at the time of the election, over 100 unhandled flags. 
+At this time, CGCC was stuck in a bit of a weird place. We'd just experienced a mass exodus of users, and for the months between Monica's firing and the January interest check, activity plummeted. However, between January and September, we experienced an [influx of new faces], and a surprising [uptick in activity]. It seemed as though CGCC was, at least activity-wise, starting to recover. However, in the main factor SE considers - active moderators - we still only had 1 moderator, and , at the time of the election, over 100 unhandled flags. 
 
 However, in September 2020, we were [scheduled for an election] and [given an ultimatum]: find people willing to moderate the site, or have the site shut down. And so, on the 14th of September 2020, the [3rd moderator election] began. In a similar fashion to previous elections of having one user win outright, [Wheat Wizard] received [over 50% of the first round of voting][opa-vote-2020], with second and third place being narrowly awarded to [hyper-neutrino] and [Jo King]. They spent their first few hours as moderators [working through the flag backlog][flag backlog], and ever since then, they've all served as excellent moderators for the past 11 months.
 
 Related or not, the increase in moderator activity seems to have come with an increase in overall site activity. With this increased activity, came the [Best of 2019] (delayed by a year) and, a couple of months later, the [Best of 2020]. In addition, more posts were made to our meta requesting improved features, such as [improving our ask page], [disabling auto protection] and [creating a welcome page]. One part of this was the [Great Status Tag Updates]™, an effort by [caird coinheringaahing] and hyper-neutrino to apply status tags to old [meta-tag:feature-request] and [meta-tag:bug] reports, to make it easier to find what needs to be done, and what's in the works.
 
-One area of the site that has undeniably grown an incredible amount since the low of 2020: [chat]. We've had [new room owners] elected, [meta-tag:chat-events] brainstormed and created and the slow, old feeds [replaced] with sleek new bots, powered entirely by butter. Chat is, for better or worse, no longer an empty wasteland populated only by Feed oneboxes, and has now developed yet [another culture] of its own. If you're interested in a space for chatting about code golf that's slightly less formal that main or meta, feel free to drop by [The Nineteenth Byte] and say hi!
+One area of the site that has undeniably grown an incredible amount since the low of 2020: [chat]. We've had [new room owners] elected, [meta-tag:chat-events] brainstormed and created and the slow, old feeds [replaced] with sleek new bots, powered entirely by butter. Chat is, for better or worse, no longer an empty wasteland populated only by Feed one boxes, and has now developed yet [another culture] of its own. If you're interested in a space for chatting about code golf that's slightly less formal that main or meta, feel free to drop by [The Nineteenth Byte] and say hi!
 
 But that brings us to the present day! Where the site may go in the future is anyone's guess - personally, I hope it sticks around for a long while. I hope you enjoyed reading about the history that this site has gone through. I've almost certainly missed out events that you may remember specifically, and I may have recounted others in a way you might not remember, but I've tried my best to include the best parts of the site, through how I've seen them. Feel free to let me know in the comments what I've gotten wrong, and what you think the site will look like over the next 10 years!
 
@@ -92,7 +92,8 @@ But that brings us to the present day! Where the site may go in the future is an
 
 <sub>
   \${}^1\$: After leaving Stack Exchange in December 2015, Chris rejoined the mod team <p>
-  \${}^2\$: We know for sure that he earned it between [Feb 16 2017] and Feb 20 2018 (moderators can't get Marshal, Mego was elected on Feb 20 2018). I haven't been able to pin down a more exact date
+  \${}^2\$: We know for sure that he earned it between [Feb 16 2017] and Feb 20 2018 (moderators can't get Marshal, Mego was elected on Feb 20 2018). I haven't been able to pin down a more exact date <p>
+  \${}^3\$: Unless you're a moderator, these links won't work for you, as they link to a moderator only room
 </sub>
 
 [10 years]: https://stackoverflow.blog/2021/08/19/celebrating-the-stack-exchange-sites-that-turned-10-years-old/
@@ -198,6 +199,8 @@ But that brings us to the present day! Where the site may go in the future is an
 [stepped down as moderator]: /q/16843/66833
 
 [Monica Cellio]: https://stackexchange.com/users/505925/monica-cellio
+[monica tl]: https://chat.stackexchange.com/transcript/message/51875377#51875377
+[Teacher's Lounge]: https://chat.stackexchange.com/rooms/4
 [monica-my]: https://judaism.meta.stackexchange.com/q/5193/17184
 [monica-mse]: https://meta.stackexchange.com/q/333965/355458
 [dennis resignation]: /q/18133/66833
