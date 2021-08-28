@@ -1,6 +1,6 @@
 # CGCC Blog Post #2: The history of PPCG and CGCC
 
-We [recently turned 10 years old][10 years]. Unfortunately, we didn't really [realise]. But, it got me thinking about the history of the site, and now that the site blog is a thing, I thought I'd write up a brief (or rather, not so brief) history of the past 10+ years of Code Golf, PPCG and CGCC. Enjoy!
+We [recently turned 10 years old][10 years]. Unfortunately, we didn't really [realise] and therefore didn't really celebrate or even mark the occasion. But, it got me thinking about the history of the site, and now that the site blog is a thing, I thought I'd write up a brief (or rather, not so brief) history of the past 10+ years of Code Golf, PPCG and CGCC. Enjoy!
 
 ---
 
@@ -24,35 +24,37 @@ Unfortunately, code trolling questions are not high quality. Most of them were s
 
 However, this clean up required users with moderation powers to use them for the Greater Good™ at a time where PPCG had [very few active moderating users][call to action]. Organised by [Doorknob], a [call to action] was put out, and, a few months later, it was officially [requested] that PPCG have another moderator appointed - specifically nominating Doorknob. On May 7th 2014, Doorknob was [officially given a diamond], something he's kept for the past 7 years as he's competently moderated the site through the rest of the events I'll be recounting.
 
-2014 and 2015 were pivotal times for PPCG. Key community posts, such as the [FAQ], were created during this time to help new users, there was [serious discussion] [about] [the future] and [purpose] of the site, and the dedicated community exploded in size. Users like [Alex A.], [Geobits], [Rainbolt] and many more became leading figures in the site's *community*, and made full use of chat as a "third place". This sense of community is what demarcates PPCG/CGCC from other golfing sites in my opinion, leading to [site specific memes and references][memes]\${}^\dagger\$ that live on [to this day].
+2014 and 2015 were pivotal times for PPCG. Key community posts, such as the [FAQ], were created during this time to help new users, there was [serious discussion] [about] [the future] and [purpose] of the site, and the dedicated community exploded in size. Users like [Alex A.], [Geobits], [Rainbolt] and many more became leading figures in the site's *community*, and made full use of chat as a "third place". This sense of community is what demarcates PPCG/CGCC from other golfing sites in my opinion, leading to [site specific memes and references][memes]<sup>†</sup> that live on [to this day].
 
 With this new community, came new leaders. In March 2015, Chris Jester-Young [stepped down] as a moderator after being hired as a developer at Stack Exchange. He nominated [Martin Ender] (then Büttner) to replace him. [Confirmed] by [popular choice], Martin joined the moderator team and served as one of the most exemplary moderators for 3 more years. As part of the moderation team, he helped define some of the biggest site policies, such as [establishing I/O defaults][defaults], our policy on [newer languages] being allowed, and starting the discussion about the fact that [CGCC isn't a Q&A site][qa site] and how we fit with the Stack Exchange model. Furthermore, he helped [spread the word][interview] about esolangs and golfing langs, a pivotal part of the CGCC community.
 
-5 months later, dmckee, after over 4 years, stepped down as a moderator, prompting an informal [moderator election]. Initially, one moderator position was available, and it appeared that [Dennis had it in the bag][Dennis vote]. However, due to circumstances unknown to all but the moderators and Community Managers, it was decided to offer the position to *both* [Dennis and Alex A.] At this point, the mod team had undergone far more changes than is typical for a Stack Exchange site not yet graduated. However, from now until 2016, the team was and would stay as gnibbler, Doorknob, Martin Ender, Dennis, Alex A. and Chris Jester-Young\${}^1\$
+5 months later, dmckee, after over 4 years, stepped down as a moderator, prompting an informal [moderator election]. Initially, one moderator position was available, and it appeared that [Dennis had it in the bag][Dennis vote]. However, due to circumstances unknown to all but the moderators and Community Managers, it was decided to offer the position to *both* [Dennis and Alex A.] At this point, the mod team had undergone far more changes than is typical for a Stack Exchange site not yet graduated. However, from now until 2016, the team was and would stay as gnibbler, Doorknob, Martin Ender, Dennis, Alex A. and Chris Jester-Young<sup>1</sup>
 
 To close off the year, we started our tradition (not at all [stolen]) of showcasing the [best posts][best-of 2015] from that year, something that's currently been [running for 6 years][best-of]. I'd recommend checking out some of the older Best Ofs - they're still excellent demonstrations of languages, techniques, challenges and answers.
 
 As a strong and healthy site, PPCG and its community thrived. However, after 1846 days in beta, we felt somewhat neglected or ignored by Stack Exchange. Various pushes to increase activity, efforts to increase the number of high reputation users, etc. were all ignored. Until February 23rd, 2016.
 
+<sub><sup>1</sup>: After leaving Stack Exchange in December 2015, Chris rejoined the mod team</sub>
+
 ## Graduation
 
-After so long in beta, graduation had become a [meme][graduation meme]\${}^\dagger\$, a prank made every so often by Geobits and co. to convince people that PPCG was graduating. However, on February 23rd 2016, SE [ruined the meme][ruined]\${}^\dagger\$ by going ahead and [graduating us]. With this massive step, we gained many new privileges, such as our own formal moderator elections, some control over the advertisements shown on the site, and, eventually, we got our own design.
+After so long in beta, graduation had become a [meme][graduation meme]<sup>†</sup>, a prank made every so often by Geobits and co. to convince people that PPCG was graduating. However, on February 23rd 2016, SE [ruined the meme][ruined]<sup>†</sup> by going ahead and [graduating us]. With this massive step, we gained many new privileges, such as our own formal moderator elections, some control over the advertisements shown on the site, and, eventually, we got our own design.
 
 The first of these changes was PPCG's [first official moderator election][election 1]. When a site graduates, the pro-tem mods must run in the election if they wish to keep serving as moderator. Doorknob, Alex, Dennis and Martin did, against a strong field of candidates. Despite this, Martin was re-elected in a [landslide] victory, with Dennis and Doorknob being clear favourites after him. While not as strong as the others, Alex successfully defended his seat by a handy margin. After 5 years, gnibbler declined to run, as did Chris Jester-Young. And so, despite the site going through a pretty big change, the moderation team stayed roughly the same faces as most users were used to.
 
-Next to follow would be the [Community Ads][ads 2016], despite some [delays] in getting these set up. These ads were the first appearance of some of the iconic ads still used today, such as for [TIO][tio ad], [the Sandbox][sandbox ad] and [Know How To Vote][khtv ad]. The ads themselves weren't an especially big thing, but the intent and meaning behind them was clear: PPCG was no longer a beta site, and was now fully grown up.
+Next to follow would be the [Community Ads][ads 2016], despite some [delays] in getting these set up. Community Ads are a system that allow the community to decide what kind of adverts are shown on the site, rather than showing paid or sponsered advertising. These adsm created and voted on by the community, were the first appearance of some of the iconic ads still used today, such [the ad][tio ad] for [Try it online!] (an online interpreter of over 600 languages, crated and hosted by Dennis), [the Sandbox][sandbox ad] and [Know How To Vote][khtv ad]. The ads themselves weren't an especially big thing, but the intent and meaning behind them was clear: PPCG was no longer a beta site, was now fully grown up and was given more control and independence by Stack Exchange.
 
 Continuing the [trend] from previous years, 2016 and 2017 had a *massive* increase in challenges posted each year, both of them reaching over 3000 each. Aside from the boom after [tag:code-trolling], this was the biggest activity increase in the site's history, and was one of the longest sustained one. During this period, some of the most well-known questions and answers were posted as well, posts that established just how awesome the site could be at its best. To choose far too few to demonstrate, [Quest For Tetris], [Mathematica's goat builtin][goat builtin] and the still ongoing [Add a language to a polyglot][aaltap] were all posted during these two years. I'd suggest, if you have the time, [browsing the top voted posts][top voted] from this era.
 
-As a grown up SE site, the top of the to-do list was a design. [Ideas] were thrown around, to create something that would make PPCG feel unique, rather than the generic blue beta design. Unfortunately, as PPCG graduated through [design-independent graduation] we still had a bit to wait.
+As a grown up SE site, the top of the to-do list was a design. [Ideas] were thrown around, to create something that would make PPCG feel unique, rather than the generic blue beta design. Unfortunately, as PPCG graduated through [design-independent graduation], we still had a bit to wait.
 
 ## A slow decline and occasional improvements
 
 2016 and 2017 experienced perhaps the most activity in the site's history. However, 2018 seemed to go the opposite direction. We had the [fewest posts] since 2013, and almost 12000 users simply [stopped visiting] the site in 2017. And yet, there's no obvious reason. There was no cataclysmic event that caused a mass exodus, a new competitor site didn't spring up and steal our userbase. The truth is much more mundane, and something we should always remember in communities: [People change. Lives change]. People just moved on from the site, for a multitude of reasons, and new faces filled their ranks.
 
-The first prominent "loss" was [Alex A.], who [handed in his diamond] in February 2018. One of the friendliest users you'll ever interact with, and an incredibly level-headed and competent moderator, he had served for 2 and a half years, with his diamond being removed on [Feb 26th, 2018], almost exactly 2 years after we graduated. However, [stepping into his shoes] were two users who very much deserved to be moderators, [DJMcMayhem] and [Mego].
+The first prominent "loss" was [Alex A.], who [handed in his diamond] in February 2018. One of the friendliest users you'll ever interact with, and an incredibly level-headed and competent moderator, he had served for 2 and a half years, with his diamond being removed on [Feb 26th, 2018], almost exactly 2 years after we graduated. However, [stepping into his shoes] were two users who very much deserved to be moderators: [DJMcMayhem] and [Mego]<sup>2</sup>.
 
-From personal experience, I can attest to the fact that DJ, like Alex, was one the friendliest users on the site. I remember first visiting [The Nineteenth Byte], and trying to get involved in code golf, and DJ welcoming me to the site, letting me know of various things I needed to know and more. And, as I took part in the site more, I remember being consistently impressed with how well DJ handled and welcomed new users. Being completely honest, DJ is still one of my role models in introducing newer users to the site. Mego was one of the most principled users on the site, and was very dedicated to moderating the site, even before he got a diamond. Although it doesn't show it\${}^2\$, he was the first user to get [Marshal], a badge requiring you to raise 500 helpful flags, was very active in the review queues, and was more than happy to use his deletion powers. We couldn't have asked for 2 better community moderators.
+From personal experience, I can attest to the fact that DJ, like Alex, was one the friendliest users on the site. I remember first visiting [The Nineteenth Byte], and trying to get involved in code golf, and DJ welcoming me to the site, letting me know of various things I needed to know and more. And, as I took part in the site more, I remember being consistently impressed with how well DJ handled and welcomed new users. Being completely honest, DJ is still one of my role models in introducing newer users to the site. Mego was one of the most principled users on the site, and was very dedicated to moderating the site, even before he got a diamond. Although it doesn't show it<sup>3</sup>, he was the first user to get [Marshal], a badge requiring you to raise 500 helpful flags, was very active in the review queues, and was more than happy to use his deletion powers. We couldn't have asked for 2 better community moderators.
 
 Around the same time, the first iteration of the [Language of the Month][lotm 18] was started. The first language to be featured was [Brachylog], one of the original golfing languages which has undergone development ever since its [initial commit] in 2015. The event continued for six months until a lack of interest caused the September language to be forgotten, and no more languages became LOTM. That was, until [DLosc] managed to [revive] it in 2020. It's now been going for almost exactly a year since.
 
@@ -62,9 +64,13 @@ Which [happened 10 months later], and at the same time, the [privilege levels] w
 
 While this was undoubtedly good news, it wasn't be an entirely positive time. After more than 3 years moderating this community, shaping our policies and creating all sorts of [crazy esolangs], Martin Ender [stepped down as moderator]. At this point, the moderation team was active and healthy enough to forgo an election, and continue as Doorknob, Dennis, Mego and DJMcMayhem.
 
+<sub><sup>2</sup>: Mego has since deleted his account, so this page will 404</sub>
+  
+<sub><sup>3</sup>: We know for sure that he earned it between [Feb 16 2017] and Feb 20 2018 (moderators can't get Marshal, Mego was elected on Feb 20 2018). I haven't been able to pin down a more exact date</sub>
+
 ## The Monica Incident and a death spiral
 
-For anyone who was active on the Stack Exchange network in late 2019, the name "Monica" brings up bad memories and for a good reason. On the evening of September 27th 2019, [Monica Cellio], a well respected moderator on 6 Stack Exchange sites - including [Meta Stack Exchange] where the moderators are hand-picked by the SE staff - had all of her diamonds removed by Stack Exchange, in response to a [discussion][monica tl]\${}^3\$ in the [Teacher's Lounge]\${}^3\$ (the moderator only chat room). Her side of the story can be read [here][monica-my], and an MSE discussion can be found [here][monica-mse], including a list of all moderators who resigned their positions due to this firing.
+For anyone who was active on the Stack Exchange network in late 2019, the name "Monica" brings up bad memories and for a good reason. On the evening of September 27th 2019, [Monica Cellio], a well respected moderator on 6 Stack Exchange sites - including [Meta Stack Exchange] where the moderators are hand-picked by the SE staff - had all of her diamonds removed by Stack Exchange, in response to a [discussion][monica tl]<sup>4</sup> in the [Teacher's Lounge]<sup>4</sup> (the moderator only chat room). Her side of the story can be read [here][monica-my], and an MSE discussion can be found [here][monica-mse], including a list of all moderators who resigned their positions due to this firing.
 
 Two such moderators were our own: [Dennis][dennis resignation] and [Mego][mego resignation]. Additionally, in protest to the new [relicensing], Mego requested that all their content on the network be dissociated with him, and his accounts removed. This incident was a dark period of time for the entire network, many users [considered leaving] the site all together, and many more users decided they'd rather not contribute to SE, given the behaviour they were showing. Some of the best users on the site, such as Peter Taylor, [Erik the Outgolfer], Dennis, and many more went inactive in the following months, many of them explicitly blaming what SE did to Monica or the forced relicensing as the trigger. Activity dropped to an all time low (since [tag:code-trolling]), TNB started going for hours and even days without conversation, and more and more users began to leave. CGCC was in a death spiral.
 
@@ -73,6 +79,8 @@ Right at the depths of this spiral, with a moderation team of just 2 and unhandl
 > [finding] replacements for Mego and Dennis
 
 Unfortunately, a couple of months later in January 2020, after 2 years as a moderator, and almost 5 years on the site, [DJMCMayhem handed in their diamond]. This reduced the moderation team to just Doorknob, and flags started spending months pending. SE is fairly lax about what will cause a site to be shut down, but the ultimate stopping point is "Are there users willing to step up and moderate this community?". Between Doorknob's low activity, and more and [more users leaving], it didn't look like CGCC was in a healthy place. It wasn't even sure [what the future of CGCC looked like][future 2020].
+
+<sub><sup>4</sup>: Unless you're a moderator, these links won't work for you, as they link to a moderator only room</sub>
 
 ## Present day and a slow recovery
 
@@ -88,13 +96,7 @@ But that brings us to the present day! Where the site may go in the future is an
 
 ---
 
-<sub>\${}^\dagger\$: Deleted, only visible to users with 10k or more reputation</sub>
-
-<sub>
-  \${}^1\$: After leaving Stack Exchange in December 2015, Chris rejoined the mod team <p>
-  \${}^2\$: We know for sure that he earned it between [Feb 16 2017] and Feb 20 2018 (moderators can't get Marshal, Mego was elected on Feb 20 2018). I haven't been able to pin down a more exact date <p>
-  \${}^3\$: Unless you're a moderator, these links won't work for you, as they link to a moderator only room
-</sub>
+<sub><sup>†</sup>: Deleted, only visible to users with 10k or more reputation</sub>
 
 [10 years]: https://stackoverflow.blog/2021/08/19/celebrating-the-stack-exchange-sites-that-turned-10-years-old/
 [realise]: https://chat.stackexchange.com/transcript/240?m=57138628#57138628
@@ -164,6 +166,7 @@ But that brings us to the present day! Where the site may go in the future is an
 [best-of 2015]: /q/7910/66833
 [best-of]: /questions/tagged/best-of
 [TIO ad]: /a/9536/66833
+[Try it online!]: https://tio.run
 [Sandbox ad]: /a/9466/66833
 [khtv ad]: /a/10138/66833
 [design-independent graduation]: https://meta.stackexchange.com/q/260754/355458
@@ -177,6 +180,7 @@ But that brings us to the present day! Where the site may go in the future is an
 [fewest posts]: https://data.stackexchange.com/codegolf/query/1431208/posts-per-year?PostType=questions#graph
 [stopped visiting]: https://data.stackexchange.com/codegolf/query/1433757/users-stopped-being-active-per-year#graph
 [People change. Lives change]: https://meta.stackoverflow.com/a/253376/7742131
+[handed in his diamond]: /q/14876/66833
 [Feb 26th, 2018]: /q/14876/#comment54502_14876
 [stepping into his shoes]: /election/2
 [DJMcMayhem]: https://codegolf.stackexchange.com/u/31716
@@ -199,6 +203,7 @@ But that brings us to the present day! Where the site may go in the future is an
 [stepped down as moderator]: /q/16843/66833
 
 [Monica Cellio]: https://stackexchange.com/users/505925/monica-cellio
+[Meta Stack Exchange]: https://meta.stackexchange.com/
 [monica tl]: https://chat.stackexchange.com/transcript/message/51875377#51875377
 [Teacher's Lounge]: https://chat.stackexchange.com/rooms/4
 [monica-my]: https://judaism.meta.stackexchange.com/q/5193/17184
@@ -207,6 +212,7 @@ But that brings us to the present day! Where the site may go in the future is an
 [mego resignation]: /q/18240/66833
 [relicensing]: https://meta.stackexchange.com/q/333089/355458
 [considered leaving]: /q/18136/66833
+[Erik the Outgolfer]: https://codegolf.stackexchange.com/u/41024
 [asked us]: /q/18269/66833
 [resolved]: /q/18269/#comment65833_18269
 [DJMCMayhem handed in their diamond]: /q/18476/66833
