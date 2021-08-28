@@ -1,6 +1,6 @@
 # CGCC Blog Post #3: The history of PPCG and CGCC
 
-We [recently turned 10 years old][10 years]. Unfortuantely, we didn't really [realise]. But, it got me thinking about the history of the site, and now that the site blog is a thing, I thought'd I'd write up a brief (or rather, not so brief) history of the past 10+ years of Code Golf, PPCG and CGCC.
+We [recently turned 10 years old][10 years]. Unfortuantely, we didn't really [realise]. But, it got me thinking about the history of the site, and now that the site blog is a thing, I thought'd I'd write up a brief (or rather, not so brief) history of the past 10+ years of Code Golf, PPCG and CGCC. Enjoy!
 
 ---
 
